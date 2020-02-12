@@ -756,7 +756,7 @@ TSSOP-36_8x9.7mm_P0.5mm:
   body_height:
     maximum: 1.2
   overall_size_x:
-    nominal: 8.1
+    nominal: 10.0
     tolerance: 0.1
   lead_width:
     minimum: 0.17
@@ -779,7 +779,7 @@ TSSOP-40_8x11mm_P0.5mm:
   body_height:
     maximum: 1.2
   overall_size_x:
-    nominal: 8.1
+    nominal: 10.0
     tolerance: 0.1
   lead_width:
     minimum: 0.17
@@ -802,7 +802,7 @@ TSSOP-48_8x12.5mm_P0.5mm:
   body_height:
     maximum: 1.2
   overall_size_x:
-    nominal: 8.1
+    nominal: 10.0
     tolerance: 0.1
   lead_width:
     minimum: 0.17
@@ -825,7 +825,7 @@ TSSOP-56_8x14mm_P0.5mm:
   body_height:
     maximum: 1.2
   overall_size_x:
-    nominal: 8.1
+    nominal: 10.0
     tolerance: 0.1
   lead_width:
     minimum: 0.17
